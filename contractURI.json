@@ -1,0 +1,8 @@
+{
+  "name": "Weirdo Gang",
+  "description": "Looking for 5555 weirdo partners and partying on Ethereum.",
+  "image": "https://raw.githubusercontent.com/weiddb/Weirdo-Gang/main/logo.jpg",
+  "external_link": "https://www.weirdogang.club",
+  "seller_fee_basis_points": 750,
+  "fee_recipient": "0x81c3daBcF7c5721bDbc067987D37548AdAF92EBb"
+}
